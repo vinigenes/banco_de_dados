@@ -8,7 +8,7 @@ Este repositório contém a modelagem conceitual e lógica para o sistema de con
 
 
 ## Modelo Conceitual
-<img src="./assets/modelo-conceitual.png" alt="Modelo conceitual"/>
+<img src="./assets/Modelo-Conceitual.jfif" alt="Modelo conceitual"/>
 
 
 ## Modelo Lógico
