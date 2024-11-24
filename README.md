@@ -14,6 +14,8 @@ Este repositório contém a modelagem conceitual e lógica para o sistema de con
 ## Modelo Lógico
 O modelo lógico do banco de dados pode ser encontrado na pasta [`restaurante`](./restaurante).
 
+## Modelo Físico
+O modelo físico do banco de dados pode ser encontrado na pasta [`modelo físico`](./Modelo%20físico/).
 
 ## Autores
 - Gustavo Andrew Gomes da Silva
