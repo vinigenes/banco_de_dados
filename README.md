@@ -18,8 +18,8 @@ O modelo lógico do banco de dados pode ser encontrado na pasta [`restaurante`](
 O modelo físico do banco de dados pode ser encontrado na pasta [`modelo físico`](./Modelo%20físico/).
 
 ## Autores
-- Gustavo Andrew Gomes da Silva
-- João Pedro Carneiro da Silva
-- Pedro Sales
-- Vinícius Souza Pinto Sales Sobral
-- Wilson Francisco do Nascimento
+- Gustavo Andrew Gomes da Silva 01711566
+- João Pedro Carneiro da Silva 01711431
+- Pedro Sales 01710979
+- Vinícius Souza Pinto Sales Sobral 01711457
+- Wilson Francisco do Nascimento 01710813
